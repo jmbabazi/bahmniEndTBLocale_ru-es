@@ -1,5 +1,5 @@
 {
-    "REPORTS_NAME_HEADER_KEY": "\nNombre",
+    "REPORTS_NAME_HEADER_KEY": "Nombre",
     "REPORTS_START_DATE_HEADER_KEY": "Fecha de inicio",
     "REPORTS_END_DATE_HEADER_KEY": "Fecha final",
     "RUN_REPORT_BUTTON_KEY": "Correr Reporte",
