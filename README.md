@@ -1,0 +1,1 @@
+# bahmniEndTBLocale_ru-es
